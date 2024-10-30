@@ -1,0 +1,300 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2018-05-17 16:25-0500\n"
+"PO-Revision-Date: 2018-05-17 16:26-0500\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.5\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: inc/class-ipgs-admin.php:40 templates/admin-main.php:11
+msgid "Copy Post"
+msgstr ""
+
+#: inc/class-ipgs-admin.php:131
+msgid "Step 1: Enter the URL of the website you would like to connect with."
+msgstr ""
+
+#: inc/class-ipgs-admin.php:135
+msgid "You were successfully connected!"
+msgstr ""
+
+#: inc/class-ipgs-admin.php:136
+msgid "Step 2: Configure settings for this job."
+msgstr ""
+
+#: inc/class-ipgs-admin.php:140
+msgid ""
+"Job was successfully created. Visit this page to view it's progress or make "
+"changes."
+msgstr ""
+
+#: inc/class-ipgs-admin.php:150
+msgid "Connected to"
+msgstr ""
+
+#: inc/class-ipgs-admin.php:171
+msgid "Schedule Job"
+msgstr ""
+
+#: inc/class-ipgs-admin.php:172
+msgid "Select Posts"
+msgstr ""
+
+#: inc/class-ipgs-admin.php:182
+msgid "Select Category"
+msgstr ""
+
+#: inc/class-ipgs-admin.php:187
+msgid "Any"
+msgstr ""
+
+#: inc/class-ipgs-admin.php:197
+msgid ""
+"You can select a category filter to only copy posts from a specific "
+"category. Select \"Any\" to show posts from all categories."
+msgstr ""
+
+#: inc/class-ipgs-admin.php:206
+msgid "Limit Posts to Copy"
+msgstr ""
+
+#: inc/class-ipgs-admin.php:210
+msgid ""
+"Limit the total number of posts to include in this job. Once the limit is "
+"reached, no more posts will be copied."
+msgstr ""
+
+#: inc/class-ipgs-admin.php:214
+msgid "Total Posts to Copy"
+msgstr ""
+
+#: inc/class-ipgs-admin.php:221
+msgid "Copy Frequency"
+msgstr ""
+
+#: inc/class-ipgs-admin.php:222
+msgid "Copy new post every"
+msgstr ""
+
+#: inc/class-ipgs-admin.php:229
+msgid "Hours"
+msgstr ""
+
+#: inc/class-ipgs-admin.php:231
+msgid "Days"
+msgstr ""
+
+#: inc/class-ipgs-admin.php:236
+msgid "Use this setting to change how often a single post is copied."
+msgstr ""
+
+#: inc/class-ipgs-admin.php:240
+msgid "Start Date"
+msgstr ""
+
+#: inc/class-ipgs-admin.php:249
+msgid ""
+"Select the date you would like this job will begin. To copy the first post "
+"immediately, select today's date and a time earlier than right now. Actual "
+"first copy occurs within a half hour your selected start time."
+msgstr ""
+
+#: inc/class-ipgs-admin.php:253
+msgid "Post Status After Copy"
+msgstr ""
+
+#: inc/class-ipgs-admin.php:257
+msgid "Published"
+msgstr ""
+
+#: inc/class-ipgs-admin.php:259
+msgid "Draft"
+msgstr ""
+
+#: inc/class-ipgs-admin.php:264
+msgid ""
+"Copy posts as \"published\" to display posts in your blog right away. Use "
+"\"draft\" if you would like to review and make changes before they are "
+"posted on your site."
+msgstr ""
+
+#: inc/class-ipgs-admin.php:266 inc/class-ipgs-admin.php:360
+msgid "End This Job"
+msgstr ""
+
+#: inc/class-ipgs-admin.php:298
+msgid "Search"
+msgstr ""
+
+#: inc/class-ipgs-admin.php:306
+msgid "copied"
+msgstr ""
+
+#: inc/class-ipgs-admin.php:311
+msgid "No results."
+msgstr ""
+
+#: inc/class-ipgs-admin.php:312
+msgid "Restart"
+msgstr ""
+
+#: inc/class-ipgs-admin.php:317
+msgid "Prev"
+msgstr ""
+
+#: inc/class-ipgs-admin.php:322
+msgid "Next"
+msgstr ""
+
+#: inc/class-ipgs-admin.php:342
+msgid "Last Post Copied"
+msgstr ""
+
+#: inc/class-ipgs-admin.php:345
+msgid "Next Scheduled Post"
+msgstr ""
+
+#: inc/class-ipgs-admin.php:348
+msgid "Will be Copied On"
+msgstr ""
+
+#: inc/class-ipgs-admin.php:351
+msgid "Posts Remaining"
+msgstr ""
+
+#: inc/class-ipgs-admin.php:360
+msgid "Options"
+msgstr ""
+
+#: inc/class-ipgs-admin.php:369 inc/class-ipgs-admin.php:457
+msgid "On Hold (no new posts found)"
+msgstr ""
+
+#: inc/class-ipgs-admin.php:371
+msgid "Complete"
+msgstr ""
+
+#: inc/class-ipgs-admin.php:408
+msgid "Blog URL"
+msgstr ""
+
+#: inc/class-ipgs-admin.php:412
+msgid "Example"
+msgstr ""
+
+#: inc/class-ipgs-admin.php:415
+msgid "End this Job"
+msgstr ""
+
+#: inc/class-ipgs-admin.php:463
+msgid "No Limit"
+msgstr ""
+
+#: inc/class-ipgs-admin.php:608
+msgid "Job ended."
+msgstr ""
+
+#: inc/class-ipgs-admin.php:731
+msgid "No results"
+msgstr ""
+
+#: inc/class-ipgs-admin.php:763
+#, php-format
+msgid "Could not connect to %s"
+msgstr ""
+
+#: inc/class-ipgs-admin.php:764
+msgid ""
+"Make sure that this blog uses WordPress and is available for a connection."
+msgstr ""
+
+#: inc/class-ipgs-admin.php:866
+msgid "End this Job? This cannot be undone."
+msgstr ""
+
+#: ipressgo-copy-post.php:87 ipressgo-copy-post.php:99
+msgid "Cheatin&#8217; huh?"
+msgstr ""
+
+#: ipressgo-copy-post.php:180 templates/admin-main.php:12
+#: templates/admin-settings.php:20
+msgid "Settings"
+msgstr ""
+
+#: ipressgo-copy-post.php:245
+msgid "Once every 30 minutes"
+msgstr ""
+
+#: templates/admin-jobs.php:15
+msgid "Copy Posts and Set Up Copy Jobs"
+msgstr ""
+
+#: templates/admin-main.php:2
+msgid "iPressGo Copy Post"
+msgstr ""
+
+#: templates/admin-main.php:13
+msgid "Support"
+msgstr ""
+
+#: templates/admin-settings.php:14
+msgid "Settings saved."
+msgstr ""
+
+#: templates/admin-settings.php:27
+msgid "Localize Images"
+msgstr ""
+
+#: templates/admin-settings.php:30
+msgid ""
+"Before copying a new post, all images will be copied to your local server "
+"and the source of images in the post content will be changed to the local "
+"image source."
+msgstr ""
+
+#: templates/admin-support.php:6
+msgid "Need Help?"
+msgstr ""
+
+#: templates/admin-support.php:9
+msgid "Setup Directions"
+msgstr ""
+
+#: templates/admin-support.php:10
+msgid "A step-by-step guide on how to setup and use the plugin."
+msgstr ""
+
+#: templates/admin-support.php:13
+msgid "FAQs and Documentation"
+msgstr ""
+
+#: templates/admin-support.php:14
+msgid "You might find some help with our FAQs and troubleshooting guides."
+msgstr ""
+
+#: templates/admin-support.php:17
+msgid "Request Support"
+msgstr ""
+
+#: templates/admin-support.php:18
+msgid ""
+"Have a problem? Submit a support ticket on our website. Please include your "
+"<strong>System Info</strong> below with support requests."
+msgstr ""
+
+#: templates/admin-support.php:23
+msgid "System Info"
+msgstr ""
+
+#: templates/admin-support.php:24
+msgid "Click the text below to select all"
+msgstr ""
